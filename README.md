@@ -5,7 +5,7 @@ Right now:<br>
 https://cs50.harvard.edu/x/2022/<br>
 <br>
 🔲 Week 0 Scratch<br>
-<li>✅ Watched the lecture</li>
+<li>✅ Watched the lecture (06.12.2022)</li>
 <li>🔲 Solved Problem Set 0</li><br>
 🔲 Week 1 C<br>
 🔲 Week 2 Arrays<br>
