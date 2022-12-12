@@ -7,9 +7,9 @@ https://cs50.harvard.edu/x/2022/<br>
 ✅ Week 0 Scratch<br>
 <li>✅ Watched the lecture (06.12.2022)</li>
 <li>✅ Solved Problem Set 0 (06.12.2022)</li><br>
-🔲 Week 1 C<br><br>
+✅ Week 1 C<br><br>
 <li>✅ Watched the lecture (09.12.2022)</li>
-<li>🔲 Solved Problem Set 1 (TBD)</li><br>
+<li>✅ Solved Problem Set 1 (12.12.2022)</li><br>
 🔲 Week 2 Arrays<br>
 🔲 Week 3 Algorithms<br>
 🔲 Week 4 Memory<br>
