@@ -10,9 +10,10 @@ https://cs50.harvard.edu/x/2022/<br>
 ✅ Week 1 C<br><br>
 <li>✅ Watched the lecture (09.12.2022)</li>
 <li>✅ Solved Problem Set 1 (12.12.2022)</li><br>
-🔲 Week 2 Arrays<br><br>
+✅ Week 2 Arrays<br><br>
 <li>✅ Watched the lecture (14.12.2022)</li>
-<li>🔲 Solved Problem Set 2 (TBD)</li><br>
+<li>✅ Solved Lab 2 (18.12.2022)</li>
+<li>✅ Solved Problem Set 2 (19.12.2022)</li><br>
 🔲 Week 3 Algorithms<br>
 🔲 Week 4 Memory<br>
 🔲 Week 5 Data Structures<br>
