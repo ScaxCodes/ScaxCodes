@@ -18,10 +18,10 @@ https://cs50.harvard.edu/x/2022/<br>
 <li>✅ Watched the lecture (24.12.2022)</li>
 <li>✅ Solved Lab 3 (26.12.2022)</li>
 <li>✅ Solved Problem Set 3 (28.12.2022)</li><br>
-🔲 Week 4 Memory<br><br>
+✅ Week 4 Memory<br><br>
 <li>✅ Watched the lecture (04.01.2023)</li>
 <li>✅ Solved Lab 4 (31.01.2023)</li>
-<li>🔲 Solved Problem Set 4 (TBD)</li><br>
+<li>✅ Solved Problem Set 4 (16.02.2023)</li><br>
 🔲 Week 5 Data Structures<br>
 🔲 Week 6 Python<br>
 🔲 Week 7 SQL<br>
