@@ -26,7 +26,10 @@ https://cs50.harvard.edu/x/2022/<br>
 <li>✅ Watched the lecture (19.02.2023)</li>
 <li>✅ Solved Lab 5 (21.02.2023)</li>
 <li>✅ Solved Problem Set 5 (02.03.2023)</li><br>
-🔲 Week 6 Python<br>
+🔲 Week 6 Python<br><br>
+<li>✅ Watched the lecture (07.03.2023)</li>
+<li>✅ Solved Lab 6 (15.03.2023)</li>
+<li>✅ Solved Problem Set 6 (TBD)</li><br>
 🔲 Week 7 SQL<br>
 🔲 Week 8 HTML, CSS, JavaScript<br>
 🔲 Week 9 Flask<br>
