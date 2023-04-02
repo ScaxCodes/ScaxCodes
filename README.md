@@ -39,7 +39,7 @@ https://cs50.harvard.edu/x/2022/<br>
 <li>✅ Solved Lab 8 (27.03.2023)</li>
 <li>✅ Solved Problem Set 8 (30.03.2023)</li><br>
 🔲 Week 9 Flask<br><br>
-<li>🔲 Watched the lecture (TBD)</li>
+<li>✅ Watched the lecture (02.04.2023)</li>
 <li>🔲 Solved Lab 9 (TBD)</li>
 <li>🔲 Solved Problem Set 9 (TBD)</li><br>
 
