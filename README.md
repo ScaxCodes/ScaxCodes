@@ -38,13 +38,15 @@ https://cs50.harvard.edu/x/2022/<br>
 <li>✅ Watched the lecture (24.04.2023)</li>
 <li>✅ Solved Lab 8 (27.03.2023)</li>
 <li>✅ Solved Problem Set 8 (30.03.2023)</li><br>
-🔲 Week 9 Flask<br><br>
+✅ Week 9 Flask<br><br>
 <li>✅ Watched the lecture (02.04.2023)</li>
 <li>✅ Solved Lab 9 (02.04.2023)</li>
-<li>🔲 Solved Problem Set 9 (TBD)</li><br>
+<li>✅ Solved Problem Set 9 (07.04.2023)</li><br>
+🔲 Week 10 Emoji<br><br>
+<li>🔲 Watched the lecture (TBD)</li>
+<li>🔲 Solved Lab 10 (TBD)</li>
+<li>🔲 Solved Problem Set 10 (TBD)</li><br>
 
-🔲 Week 10 Emoji<br>
-<br>
 🔲 Cybersecurity<br>
 🔲 Seminars<br>
 🔲 Final Project<br>
