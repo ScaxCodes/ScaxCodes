@@ -43,13 +43,9 @@ https://cs50.harvard.edu/x/2022/<br>
 <li>✅ Solved Lab 9 (02.04.2023)</li>
 <li>✅ Solved Problem Set 9 (07.04.2023)</li><br>
 🔲 Week 10 Emoji<br><br>
-<li>🔲 Watched the lecture (TBD)</li>
-<li>🔲 Solved Lab 10 (TBD)</li>
-<li>🔲 Solved Problem Set 10 (TBD)</li><br>
-
-🔲 Cybersecurity<br>
-🔲 Seminars<br>
-🔲 Final Project<br>
+<li>✅ Watched the lecture (08.04.2023)</li>
+<li>🔲 Watched cybersecurity lecture (TBD)</li>
+<li>🔲 Submitted Final Project (TBD)</li>
 <!---
 Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
