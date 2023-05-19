@@ -1,11 +1,11 @@
-👋 Hi, I’m @Einschleicher<br>
-👀 I’m interested in learning how to code...<br>
+👋 Hi, I’m Einschleicher<br>
+👀 I love coffe and am interested in learning how to code...<br>
 <br>
-<b>Right now:</b><br>
-https://cs50.harvard.edu/x/2022/ - Final Project<br>
+<b>Currently on a Full-Stack WebDev Path:</b><br>
+https://cs50.harvard.edu/x/2022/<br>
 https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <br>
-<h2>CS50x</h2>
+<h2>🔲 CS50x: Tracking</h2>
 ✅ Week 0 Scratch<br><br>
 <li>✅ Watched the lecture (06.12.2022)</li>
 <li>✅ Solved Problem Set 0 (06.12.2022)</li><br>
@@ -47,14 +47,16 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 🔲 Week 10 Emoji<br><br>
 <li>✅ Watched the lecture (08.04.2023)</li>
 <li>🔲 Submitted Final Project (TBD)</li><br>
-<h2>Additional Stuff</h2>
-<li>✅ Coursera "Learn how to learn" Week 1 (09.04.2023)
-<li>✅ Coursera "Learn how to learn" Week 2 (09.04.2023)
-<li>✅ Coursera "Learn how to learn" Week 3 (09.04.2023)
-<li>✅ Coursera "Learn how to learn" Week 4 (10.04.2023)
-<li>🔲 Watched cybersecurity lecture (TBD)</li><br>
-<h2>The Odin Project: Foundations Course</h2>
-<li>✅ Introduction (10.04.2023)
+
+<h2>🔲 The Odin Project: Tracking</h2>
+<h3>🔲 Foundations Course</h3>
+<li>✅ Introduction (10.04.2023)</li>
+<li>✅ Prerequisites (15.04.2023)</li>
+<li>✅ Git Basics (22.04.2023)</li>
+<li>✅ HTML Foundations (29.04.2023)</li>
+<li>✅ CSS Foundations (05.05.2023)</li>
+<li>✅ Flexbox (19.05.2023)</li>
+<li>🔲 JavaScrip Basics (TBD)</li>
 
 <!---
 Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
