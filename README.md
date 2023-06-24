@@ -56,7 +56,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <li>✅ HTML Foundations (29.04.2023)</li>
 <li>✅ CSS Foundations (05.05.2023)</li>
 <li>✅ Flexbox (19.05.2023)</li>
-<li>✅ JavaScrip Basics (24.06.2023)</li>
+<li>✅ JavaScript Basics (24.06.2023)</li>
 
 <h2>🔲 The Odin Project: Full Stack JavaScript Path</h2>
 <h3>🔲 Intermediate HTML and CSS</h3>
