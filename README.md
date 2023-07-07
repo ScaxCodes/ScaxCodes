@@ -62,7 +62,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <h3>🔲 Intermediate HTML and CSS</h3>
 <li>✅ Intermediate HTML Concepts (26.06.2023)</li>
 <li>✅ Intermediate CSS Concepts (01.07.2023)</li>
-<li>🔲 Forms (TBD)</li>
+<li>✅ Forms (07.07.2023)</li>
 <li>🔲 Grid (TBD)</li>
 
 <!---
