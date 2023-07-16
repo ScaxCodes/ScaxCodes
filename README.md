@@ -59,12 +59,23 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <li>✅ JavaScript Basics (24.06.2023)</li>
 
 <h2>🔲 The Odin Project: Full Stack JavaScript Path</h2>
-<h3>🔲 Intermediate HTML and CSS</h3>
+<h3>✅ Intermediate HTML and CSS</h3>
 <li>✅ Intermediate HTML Concepts (26.06.2023)</li>
 <li>✅ Intermediate CSS Concepts (01.07.2023)</li>
 <li>✅ Forms (07.07.2023)</li>
-<li>🔲 Grid (TBD)</li>
+<li>✅ Grid (16.07.2023)</li>
 
+<h3>🔲 JavaScript</h3>
+<li>🔲 Introduction (TBD)</li>
+<li>🔲 Organizing Your JavaScript Code (TBD)</li>
+<li>🔲 JavaScript in the Real World (TBD)</li>
+<li>🔲 Asynchronous JavaScript and APIs (TBD)</li>
+<li>🔲 A Bit of Computer Science (TBD)</li>
+<li>🔲 Testing JavaScript (TBD)</li>
+<li>🔲 Intermediate Git (TBD)</li>
+<li>🔲 React JS (TBD)</li>
+<li>🔲 JavaScript and the Backend (TBD)</li>
+<li>🔲 Finishing Up with JavaScript (TBD)</li>
 <!---
 Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
