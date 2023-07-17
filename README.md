@@ -66,7 +66,7 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <li>✅ Grid (16.07.2023)</li>
 
 <h3>🔲 JavaScript</h3>
-<li>🔲 Introduction (TBD)</li>
+<li>✅ Introduction (17.07.2023)</li>
 <li>🔲 Organizing Your JavaScript Code (TBD)</li>
 <li>🔲 JavaScript in the Real World (TBD)</li>
 <li>🔲 Asynchronous JavaScript and APIs (TBD)</li>
