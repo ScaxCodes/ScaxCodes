@@ -1,9 +1,10 @@
-👋 Hi, I’m Einschleicher<br>
-👀 I love coffe and am interested in learning how to code...<br>
+Hi, I’m Axel 👋<br>
+I love coffe and have a recent passion for coding 👀<br>
 <br>
-<b>Currently on a Full-Stack WebDev Path:</b><br>
-https://cs50.harvard.edu/x/2022/<br>
-https://www.theodinproject.com/paths/foundations/courses/foundations<br>
+<b>🧑‍💻 Right now I'm learning a lot of stuff about Web Development (Full-Stack Javascript):</b><br>
+Q4 2022: https://cs50.harvard.edu/x/2022/<br>
+Q1 2023: https://www.theodinproject.com/paths/foundations/courses/foundations<br>
+2023 - 2024: https://www.theodinproject.com/paths/full-stack-javascript<br>
 <br>
 <h2>🔲 CS50x</h2>
 ✅ Week 0 Scratch<br><br>
@@ -73,9 +74,16 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <li>🔲 A Bit of Computer Science (TBD)</li>
 <li>🔲 Testing JavaScript (TBD)</li>
 <li>🔲 Intermediate Git (TBD)</li>
-<li>🔲 React JS (TBD)</li>
-<li>🔲 JavaScript and the Backend (TBD)</li>
+<li>🔲 Testing JavaScript (TBD)</li>
 <li>🔲 Finishing Up with JavaScript (TBD)</li>
+
+<h3>🔲 Advanced HTML and CSS</h3>
+
+<h3>🔲 React</h3>
+
+<h3>🔲 NodeJS</h3>
+
+<h3>🔲 Getting Hired</h3>
 <!---
 Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. Aight.
