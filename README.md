@@ -78,5 +78,5 @@ https://www.theodinproject.com/paths/foundations/courses/foundations<br>
 <li>🔲 Finishing Up with JavaScript (TBD)</li>
 <!---
 Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. Aight.
 --->
