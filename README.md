@@ -10,6 +10,17 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 - Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - 2023 - 2024: [Full Stack JavaScript Path - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
+## Tech Stacks
+
+| Technology       | Description                                  | Logo                                                                                   |
+|------------------|----------------------------------------------|----------------------------------------------------------------------------------------|
+| JavaScript       | Frontend and Backend scripting language      | <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="35">         |
+| HTML5            | Markup language for creating web content     | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="35">                  |
+| CSS3             | Styling language for web design              | <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="35">                   |
+| Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
+| Linux Ubuntu     | Open-source operating system                 | <img src="https://www.svgrepo.com/show/512424/linux-ubuntu-148.svg" width="35">        |
+| VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
+
 ## CS50x - Harvard University
 
 ### Week 0 Scratch
