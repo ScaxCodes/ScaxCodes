@@ -1,90 +1,105 @@
-Hi, I’m Axel 👋<br>
-I love coffe and have a recent passion for coding 👀<br>
-<br>
-<b>🧑‍💻 Right now I'm learning a lot of stuff about Web Development (Full-Stack Javascript):</b><br>
-Q4 2022: https://cs50.harvard.edu/x/2022/<br>
-Q1 2023: https://www.theodinproject.com/paths/foundations/courses/foundations<br>
-2023 - 2024: https://www.theodinproject.com/paths/full-stack-javascript<br>
-<br>
-<h2>🔲 CS50x</h2>
-✅ Week 0 Scratch<br><br>
-<li>✅ Watched the lecture (06.12.2022)</li>
-<li>✅ Solved Problem Set 0 (06.12.2022)</li><br>
-✅ Week 1 C<br><br>
-<li>✅ Watched the lecture (09.12.2022)</li>
-<li>✅ Solved Problem Set 1 (12.12.2022)</li><br>
-✅ Week 2 Arrays<br><br>
-<li>✅ Watched the lecture (14.12.2022)</li>
-<li>✅ Solved Lab 2 (18.12.2022)</li>
-<li>✅ Solved Problem Set 2 (19.12.2022)</li><br>
-✅ Week 3 Algorithms<br><br>
-<li>✅ Watched the lecture (24.12.2022)</li>
-<li>✅ Solved Lab 3 (26.12.2022)</li>
-<li>✅ Solved Problem Set 3 (28.12.2022)</li><br>
-✅ Week 4 Memory<br><br>
-<li>✅ Watched the lecture (04.01.2023)</li>
-<li>✅ Solved Lab 4 (31.01.2023)</li>
-<li>✅ Solved Problem Set 4 (16.02.2023)</li><br>
-✅ Week 5 Data Structures<br><br>
-<li>✅ Watched the lecture (19.02.2023)</li>
-<li>✅ Solved Lab 5 (21.02.2023)</li>
-<li>✅ Solved Problem Set 5 (02.03.2023)</li><br>
-✅ Week 6 Python<br><br>
-<li>✅ Watched the lecture (07.03.2023)</li>
-<li>✅ Solved Lab 6 (15.03.2023)</li>
-<li>✅ Solved Problem Set 6 (21.03.2023)</li><br>
-✅ Week 7 SQL<br><br>
-<li>✅ Watched the lecture (21.03.2023)</li>
-<li>✅ Solved Lab 7 (21.03.2023)</li>
-<li>✅ Solved Problem Set 7 (23.03.2023)</li><br>
-✅ Week 8 HTML, CSS, JavaScript<br><br>
-<li>✅ Watched the lecture (24.04.2023)</li>
-<li>✅ Solved Lab 8 (27.03.2023)</li>
-<li>✅ Solved Problem Set 8 (30.03.2023)</li><br>
-✅ Week 9 Flask<br><br>
-<li>✅ Watched the lecture (02.04.2023)</li>
-<li>✅ Solved Lab 9 (02.04.2023)</li>
-<li>✅ Solved Problem Set 9 (07.04.2023)</li><br>
-🔲 Week 10 Emoji<br><br>
-<li>✅ Watched the lecture (08.04.2023)</li>
-<li>🔲 Submitted Final Project (TBD)</li><br>
+# Hey there, I'm Axel! 👋
 
-<h2>✅ The Odin Project: Foundations Course</h2>
-<h3>✅ Foundations Course</h3>
-<li>✅ Introduction (10.04.2023)</li>
-<li>✅ Prerequisites (15.04.2023)</li>
-<li>✅ Git Basics (22.04.2023)</li>
-<li>✅ HTML Foundations (29.04.2023)</li>
-<li>✅ CSS Foundations (05.05.2023)</li>
-<li>✅ Flexbox (19.05.2023)</li>
-<li>✅ JavaScript Basics (24.06.2023)</li>
+Welcome to my GitHub profile. I'm a coffee enthusiast with a newfound passion for coding.
 
-<h2>🔲 The Odin Project: Full Stack JavaScript Path</h2>
-<h3>✅ Intermediate HTML and CSS</h3>
-<li>✅ Intermediate HTML Concepts (26.06.2023)</li>
-<li>✅ Intermediate CSS Concepts (01.07.2023)</li>
-<li>✅ Forms (07.07.2023)</li>
-<li>✅ Grid (16.07.2023)</li>
+## 🧑‍💻 What I'm Up To
 
-<h3>🔲 JavaScript</h3>
-<li>✅ Introduction (17.07.2023)</li>
-<li>🔲 Organizing Your JavaScript Code (TBD)</li>
-<li>🔲 JavaScript in the Real World (TBD)</li>
-<li>🔲 Asynchronous JavaScript and APIs (TBD)</li>
-<li>🔲 A Bit of Computer Science (TBD)</li>
-<li>🔲 Testing JavaScript (TBD)</li>
-<li>🔲 Intermediate Git (TBD)</li>
-<li>🔲 Testing JavaScript (TBD)</li>
-<li>🔲 Finishing Up with JavaScript (TBD)</li>
+Right now, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
 
-<h3>🔲 Advanced HTML and CSS</h3>
+- Q4 2022: [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)
+- Q1 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- 2023 - 2024: [Full Stack JavaScript Path - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-<h3>🔲 React</h3>
+## CS50x
 
-<h3>🔲 NodeJS</h3>
+### Week 0 Scratch
+- [x] Watched the lecture (06.12.2022)
+- [x] Solved Problem Set 0 (06.12.2022)
 
-<h3>🔲 Getting Hired</h3>
-<!---
-Einschleicher/Einschleicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. Aight.
---->
+### Week 1 C
+- [x] Watched the lecture (09.12.2022)
+- [x] Solved Problem Set 1 (12.12.2022)
+
+### Week 2 Arrays
+- [x] Watched the lecture (14.12.2022)
+- [x] Solved Lab 2 (18.12.2022)
+- [x] Solved Problem Set 2 (19.12.2022)
+
+### Week 3 Algorithms
+- [x] Watched the lecture (24.12.2022)
+- [x] Solved Lab 3 (26.12.2022)
+- [x] Solved Problem Set 3 (28.12.2022)
+
+### Week 4 Memory
+- [x] Watched the lecture (04.01.2023)
+- [x] Solved Lab 4 (31.01.2023)
+- [x] Solved Problem Set 4 (16.02.2023)
+
+### Week 5 Data Structures
+- [x] Watched the lecture (19.02.2023)
+- [x] Solved Lab 5 (21.02.2023)
+- [x] Solved Problem Set 5 (02.03.2023)
+
+### Week 6 Python
+- [x] Watched the lecture (07.03.2023)
+- [x] Solved Lab 6 (15.03.2023)
+- [x] Solved Problem Set 6 (21.03.2023)
+
+### Week 7 SQL
+- [x] Watched the lecture (21.03.2023)
+- [x] Solved Lab 7 (21.03.2023)
+- [x] Solved Problem Set 7 (23.03.2023)
+
+### Week 8 HTML, CSS, JavaScript
+- [x] Watched the lecture (24.04.2023)
+- [x] Solved Lab 8 (27.03.2023)
+- [x] Solved Problem Set 8 (30.03.2023)
+
+### Week 9 Flask
+- [x] Watched the lecture (02.04.2023)
+- [x] Solved Lab 9 (02.04.2023)
+- [x] Solved Problem Set 9 (07.04.2023)
+
+### Week 10 Emoji
+- [x] Watched the lecture (08.04.2023)
+- [ ] Submitted Final Project (TBD)
+
+## The Odin Project: Foundations Course
+
+### Foundations Course
+- [x] Introduction (10.04.2023)
+- [x] Prerequisites (15.04.2023)
+- [x] Git Basics (22.04.2023)
+- [x] HTML Foundations (29.04.2023)
+- [x] CSS Foundations (05.05.2023)
+- [x] Flexbox (19.05.2023)
+- [x] JavaScript Basics (24.06.2023)
+
+## The Odin Project: Full Stack JavaScript Path
+
+### Intermediate HTML and CSS
+- [x] Intermediate HTML Concepts (26.06.2023)
+- [x] Intermediate CSS Concepts (01.07.2023)
+- [x] Forms (07.07.2023)
+- [x] Grid (16.07.2023)
+
+### JavaScript
+- [x] Introduction (17.07.2023)
+- [ ] Organizing Your JavaScript Code (TBD)
+- [ ] JavaScript in the Real World (TBD)
+- [ ] Asynchronous JavaScript and APIs (TBD)
+- [ ] A Bit of Computer Science (TBD)
+- [ ] Testing JavaScript (TBD)
+- [ ] Intermediate Git (TBD)
+- [ ] Testing JavaScript (TBD)
+- [ ] Finishing Up with JavaScript (TBD)
+
+### Advanced HTML and CSS (Upcoming)
+
+### React (Upcoming)
+
+### NodeJS (Upcoming)
+
+### Getting Hired (Upcoming)
+
+<!-- Feel free to check out the repositories for more details about my projects and progress! -->
