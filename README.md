@@ -20,6 +20,8 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 | Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
 | Linux Ubuntu     | Open-source operating system                 | <img src="https://www.svgrepo.com/show/512424/linux-ubuntu-148.svg" width="35">        |
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
+| npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
+| webpack          | Module bundler for JavaScript applications   | <img src="https://simpleicons.org/icons/webpack.svg" width="35">                 |
 
 ## CS50x - Harvard University
 
