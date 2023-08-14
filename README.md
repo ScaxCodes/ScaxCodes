@@ -10,7 +10,7 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 - Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - 2023 - 2024: [Full Stack JavaScript Path - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-## CS50x
+## CS50x - Harvard University
 
 ### Week 0 Scratch
 - [x] Watched the lecture (06.12.2022)
