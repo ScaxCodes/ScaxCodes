@@ -66,7 +66,6 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 
 ## The Odin Project: Foundations Course
 
-### Foundations Course
 - [x] Introduction (10.04.2023)
 - [x] Prerequisites (15.04.2023)
 - [x] Git Basics (22.04.2023)
