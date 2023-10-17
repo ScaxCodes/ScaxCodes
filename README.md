@@ -99,7 +99,7 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 - [x] Introduction (17.07.2023)
 - [x] Organizing Your JavaScript Code (18.09.2023)
 - [x] Book "99 Bottles of OOP" by Sandi Metz (06.10.2023)
-- [ ] JavaScript in the Real World (TBD)
+- [x] JavaScript in the Real World (17.10.2023)
 - [ ] Asynchronous JavaScript and APIs (TBD)
 - [ ] A Bit of Computer Science (TBD)
 - [ ] Testing JavaScript (TBD)
