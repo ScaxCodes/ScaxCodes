@@ -75,7 +75,7 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 
 ### Week 10 Emoji
 - [x] Watched the lecture (08.04.2023)
-- [ ] Submitted Final Project (TBD)
+- [x] Submitted Final Project (26.11.2023)
 
 ## The Odin Project: Foundations Course
 
