@@ -101,7 +101,7 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 - [x] Book "99 Bottles of OOP" by Sandi Metz (06.10.2023)
 - [x] JavaScript in the Real World (17.10.2023)
 - [x] Asynchronous JavaScript and APIs (14.11.2023)
-- [ ] A Bit of Computer Science (TBD)
+- [x] A Bit of Computer Science (08.02.2024)
 - [ ] Testing JavaScript (TBD)
 - [ ] Intermediate Git (TBD)
 - [ ] Testing JavaScript (TBD)
