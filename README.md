@@ -25,56 +25,17 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 
 ## CS50x - Harvard University
 
-### Week 0 Scratch
-- [x] Watched the lecture (06.12.2022)
-- [x] Solved Problem Set 0 (06.12.2022)
-
-### Week 1 C
-- [x] Watched the lecture (09.12.2022)
-- [x] Solved Problem Set 1 (12.12.2022)
-
-### Week 2 Arrays
-- [x] Watched the lecture (14.12.2022)
-- [x] Solved Lab 2 (18.12.2022)
-- [x] Solved Problem Set 2 (19.12.2022)
-
-### Week 3 Algorithms
-- [x] Watched the lecture (24.12.2022)
-- [x] Solved Lab 3 (26.12.2022)
-- [x] Solved Problem Set 3 (28.12.2022)
-
-### Week 4 Memory
-- [x] Watched the lecture (04.01.2023)
-- [x] Solved Lab 4 (31.01.2023)
-- [x] Solved Problem Set 4 (16.02.2023)
-
-### Week 5 Data Structures
-- [x] Watched the lecture (19.02.2023)
-- [x] Solved Lab 5 (21.02.2023)
-- [x] Solved Problem Set 5 (02.03.2023)
-
-### Week 6 Python
-- [x] Watched the lecture (07.03.2023)
-- [x] Solved Lab 6 (15.03.2023)
-- [x] Solved Problem Set 6 (21.03.2023)
-
-### Week 7 SQL
-- [x] Watched the lecture (21.03.2023)
-- [x] Solved Lab 7 (21.03.2023)
-- [x] Solved Problem Set 7 (23.03.2023)
-
-### Week 8 HTML, CSS, JavaScript
-- [x] Watched the lecture (24.04.2023)
-- [x] Solved Lab 8 (27.03.2023)
-- [x] Solved Problem Set 8 (30.03.2023)
-
-### Week 9 Flask
-- [x] Watched the lecture (02.04.2023)
-- [x] Solved Lab 9 (02.04.2023)
-- [x] Solved Problem Set 9 (07.04.2023)
-
-### Week 10 Emoji
-- [x] Watched the lecture (08.04.2023)
+- [x] Week 0 Scratch (06.12.2022)
+- [x] Week 1 C (12.12.2022)
+- [x] Week 2 Arrays (19.12.2022)
+- [x] Week 3 Algorithms (28.12.2022)
+- [x] Week 4 Memory (16.02.2023)
+- [x] Week 5 Data Structures (02.03.2023)
+- [x] Week 6 Python (21.03.2023)
+- [x] Week 7 SQL (23.03.2023)
+- [x] Week 8 HTML, CSS, JavaScript (30.03.2023)
+- [x] Week 9 Flask (07.04.2023)
+- [x] Week 10 Emoji (08.04.2023)<p>
 - [x] Submitted Final Project (26.11.2023)
 
 ## The Odin Project: Foundations Course
