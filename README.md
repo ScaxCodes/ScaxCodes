@@ -4,11 +4,14 @@ Welcome to my GitHub profile. I'm a coffee enthusiast with a newfound passion fo
 
 ## 🧑‍💻 What I'm Up To
 
-Right now, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
+Since late 2022, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
 
 - Q4 2022: [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)
 - Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - 2023 - 2024: [Full Stack JavaScript Path - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- Q3 2023: [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)
+- Q1 2024: [CourseCareers - Software Development Fundamentals](https://coursecareers.com/courses/explore/software-dev-fundamentals)
+- Q2 2024: [CourseCareers - Specialization Frontend Development](https://coursecareers.com/courses/explore/software-dev-fundamentals)
 
 ## 🧱 Tech Stacks
 
@@ -17,11 +20,12 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 | JavaScript       | Frontend and Backend scripting language      | <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="35">         |
 | HTML5            | Markup language for creating web content     | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="35">                  |
 | CSS3             | Styling language for web design              | <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="35">                   |
+| React            | JavaScript library for building UIs          | <img src="https://www.svgrepo.com/show/452092/react.svg" width="35">                   |
 | Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
-| Linux Ubuntu     | Open-source operating system                 | <img src="https://www.svgrepo.com/show/512424/linux-ubuntu-148.svg" width="35">        |
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
-| webpack          | Module bundler for JavaScript applications   | <img src="https://simpleicons.org/icons/webpack.svg" width="35">                 |
+| webpack          | Module bundler for JavaScript applications   | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="35">                 |
+| Go               | Open source programming language by Google   | <img src="https://www.svgrepo.com/show/353795/go.svg" width="35">                      |
 
 ## CS50x - Harvard University
 
@@ -75,5 +79,19 @@ Right now, I'm diving deep into the world of Web Development, specifically Full-
 ### NodeJS (Upcoming)
 
 ### Getting Hired (Upcoming)
+
+## CourseCareers - Software Development Fundamentals
+
+- [x] Frontend Basics (01.02.2024)
+- [x] Professional Software Development (02.02.2024)
+- [x] Computer Science Principles (15.02.2024)
+- [x] Backend Development With Go (23.02.2024)
+- [x] Software Engineering Principles (24.02.2024)
+- [ ] Final Project
+- [ ] Final Exam
+
+## CourseCareers - Specialization Frontend Development
+
+### Upcoming
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
