@@ -87,11 +87,12 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Computer Science Principles (15.02.2024)
 - [x] Backend Development With Go (23.02.2024)
 - [x] Software Engineering Principles (24.02.2024)
-- [ ] Final Project
-- [ ] Final Exam
+- [x] Final Project (15.03.2024)
+- [x] Final Exam (04.04.2024)
 
 ## CourseCareers - Specialization Frontend Development
 
-### Upcoming
+- [x] CSS (16.04.2024)
+- [ ] TypeScript (TDB)
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
