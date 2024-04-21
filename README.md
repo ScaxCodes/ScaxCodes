@@ -94,5 +94,8 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 - [x] CSS (16.04.2024)
 - [ ] TypeScript (TDB)
+- [ ] JavaScript (TBD)
+- [ ] React (TBD)
+- [ ] Final Exam (TBD)
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
