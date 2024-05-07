@@ -78,8 +78,6 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ### NodeJS (Upcoming)
 
-### Getting Hired (Upcoming)
-
 ## CourseCareers - Software Development Fundamentals
 
 - [x] Frontend Basics (01.02.2024)
