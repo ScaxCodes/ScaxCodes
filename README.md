@@ -93,7 +93,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 ## CourseCareers - Specialization Frontend Development
 
 - [x] CSS (16.04.2024)
-- [ ] TypeScript (TDB)
+- [x] TypeScript (01.05.2024)
 - [ ] JavaScript (TBD)
 - [ ] React (TBD)
 - [ ] Final Exam (TBD)
