@@ -21,6 +21,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | HTML5            | Markup language for creating web content     | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="35">                  |
 | CSS3             | Styling language for web design              | <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="35">                   |
 | React            | JavaScript library for building UIs          | <img src="https://www.svgrepo.com/show/452092/react.svg" width="35">                   |
+| Tailwind CSS     | Utility-first CSS framework                  | <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="35">                |
 | Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
