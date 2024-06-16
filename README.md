@@ -68,7 +68,6 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] JavaScript in the Real World (17.10.2023)
 - [x] Asynchronous JavaScript and APIs (14.11.2023)
 - [x] A Bit of Computer Science (08.02.2024)
-- [ ] Testing JavaScript (TBD)
 - [ ] Intermediate Git (TBD)
 - [ ] Testing JavaScript (TBD)
 - [ ] Finishing Up with JavaScript (TBD)
@@ -93,7 +92,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 - [x] CSS (16.04.2024)
 - [x] TypeScript (01.05.2024)
-- [ ] JavaScript (TBD)
+- [x] JavaScript (16.06.2024)
 - [ ] React (TBD)
 - [ ] Final Exam (TBD)
 
