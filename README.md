@@ -1,6 +1,6 @@
 # Hey there, I'm Axel! 👋
 
-Welcome to my GitHub profile. I'm a coffee enthusiast with a newfound passion for coding.
+Welcome to my GitHub profile. I'm a coffee enthusiast with a passion for coding.
 
 ## 🧑‍💻 What I'm Up To
 
