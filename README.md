@@ -91,6 +91,13 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 ## The Odin Project: Full Stack JavaScript Path (2/2)
 
 ### React (Upcoming)
+- [ ] Introduction (TBD)
+- [ ] Getting Started With React (TBD)
+- [ ] States and Effects (TBD)
+- [ ] Class Components (TBD)
+- [ ] React Testing (TBD)
+- [ ] The React Ecosystem (TBD)
+- [ ] More React Concepts (TBD)
 
 ### JavaScript (Upcoming)
 - [ ] Intermediate Git (TBD)
