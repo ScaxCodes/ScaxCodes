@@ -27,7 +27,6 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
 | webpack          | Module bundler for JavaScript applications   | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="35">                 |
-| Go               | Open source programming language by Google   | <img src="https://www.svgrepo.com/show/353795/go.svg" width="35">                      |
 
 ## Harvard University: CS50x
 
