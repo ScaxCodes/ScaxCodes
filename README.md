@@ -14,7 +14,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - Q2 2024: [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
 - Q4 2024: [Databases & Node.js - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-## 🧱 Tech Stacks
+## 🧱 Tech Stack
 
 | Technology       | Description                                  | Logo                                                                                   |
 |------------------|----------------------------------------------|----------------------------------------------------------------------------------------|
