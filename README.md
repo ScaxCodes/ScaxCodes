@@ -8,11 +8,12 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 - Q4 2022: [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)
 - Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- Q3 2023: [JavaScript & React - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- Q3 2023: [Full Stack JavaScript Path (1/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 - Q3 2023: [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)
 - Q1 2024: [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
 - Q2 2024: [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
-- Q4 2024: [Databases & Node.js - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- Q3 2024: [Chingu: 6-week remote team project](https://www.chingu.io/howItWorks)
+- Q4 2024: [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ## 🧱 Tech Stack
 
@@ -53,7 +54,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Flexbox (19.05.2023)
 - [x] JavaScript Basics (24.06.2023)
 
-## The Odin Project: Full Stack JavaScript Path
+## The Odin Project: Full Stack JavaScript Path (1/2)
 
 ### Intermediate HTML and CSS
 - [x] Intermediate HTML Concepts (26.06.2023)
@@ -68,15 +69,6 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] JavaScript in the Real World (17.10.2023)
 - [x] Asynchronous JavaScript and APIs (14.11.2023)
 - [x] A Bit of Computer Science (08.02.2024)
-- [ ] Intermediate Git (TBD)
-- [ ] Testing JavaScript (TBD)
-- [ ] Finishing Up with JavaScript (TBD)
-
-### Advanced HTML and CSS (Upcoming)
-
-### React (Upcoming)
-
-### NodeJS (Upcoming)
 
 ## CourseCareers: Software Development Fundamentals
 
@@ -85,7 +77,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Computer Science Principles (15.02.2024)
 - [x] Backend Development With Go (23.02.2024)
 - [x] Software Engineering Principles (24.02.2024)
-- [x] Final Project (15.03.2024)
+- [x] Final Project (15.03.2024)<p>
 - [x] Final Exam (04.04.2024)
 
 ## CourseCareers: Specialization Frontend Development
@@ -93,7 +85,22 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] CSS (16.04.2024)
 - [x] TypeScript (01.05.2024)
 - [x] JavaScript (16.06.2024)
-- [x] React (18.08.2024)
+- [x] React (18.08.2024)<p>
 - [x] Final Exam (28.09.2024)
+
+## The Odin Project: Full Stack JavaScript Path (2/2)
+
+### React (Upcoming)
+
+### JavaScript (Upcoming)
+- [ ] Intermediate Git (TBD)
+- [ ] Testing JavaScript (TBD)
+- [ ] Finishing Up with JavaScript (TBD)
+
+### Advanced HTML and CSS (Upcoming)
+
+### Databases (Upcoming)
+
+### NodeJS (Upcoming)
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
