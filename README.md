@@ -8,10 +8,11 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 - Q4 2022: [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)
 - Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- 2023 - 2024: [Full Stack JavaScript Path - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- Q3 2023: [JavaScript & React - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 - Q3 2023: [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)
-- Q1 2024: [CourseCareers - Software Development Fundamentals](https://coursecareers.com/courses/explore/software-dev-fundamentals)
-- Q2 2024: [CourseCareers - Specialization Frontend Development](https://coursecareers.com/courses/explore/software-dev-fundamentals)
+- Q1 2024: [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
+- Q2 2024: [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
+- Q4 2024: [Databases & Node.js - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ## 🧱 Tech Stacks
 
@@ -28,7 +29,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | webpack          | Module bundler for JavaScript applications   | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="35">                 |
 | Go               | Open source programming language by Google   | <img src="https://www.svgrepo.com/show/353795/go.svg" width="35">                      |
 
-## CS50x - Harvard University
+## Harvard University: CS50x
 
 - [x] Week 0 Scratch (06.12.2022)
 - [x] Week 1 C (12.12.2022)
@@ -78,7 +79,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ### NodeJS (Upcoming)
 
-## CourseCareers - Software Development Fundamentals
+## CourseCareers: Software Development Fundamentals
 
 - [x] Frontend Basics (01.02.2024)
 - [x] Professional Software Development (02.02.2024)
@@ -88,12 +89,12 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Final Project (15.03.2024)
 - [x] Final Exam (04.04.2024)
 
-## CourseCareers - Specialization Frontend Development
+## CourseCareers: Specialization Frontend Development
 
 - [x] CSS (16.04.2024)
 - [x] TypeScript (01.05.2024)
 - [x] JavaScript (16.06.2024)
 - [x] React (18.08.2024)
-- [ ] Final Exam (TBD)
+- [x] Final Exam (28.09.2024)
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
