@@ -93,7 +93,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 ### React (Upcoming)
 - [x] Introduction (30.09.2024)
 - [x] Getting Started With React (30.09.2024)
-- [ ] States and Effects (TBD)
+- [x] States and Effects (30.09.2024)
 - [ ] Class Components (TBD)
 - [ ] React Testing (TBD)
 - [ ] The React Ecosystem (TBD)
