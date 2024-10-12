@@ -70,7 +70,9 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Asynchronous JavaScript and APIs (14.11.2023)
 - [x] A Bit of Computer Science (08.02.2024)
 
-## CourseCareers: Software Development Fundamentals
+## CourseCareers
+
+### Software Development Fundamentals
 
 - [x] Frontend Basics (01.02.2024)
 - [x] Professional Software Development (02.02.2024)
@@ -80,7 +82,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Final Project (15.03.2024)<p>
 - [x] Final Exam (04.04.2024)
 
-## CourseCareers: Specialization Frontend Development
+### Specialization Frontend Development
 
 - [x] CSS (16.04.2024)
 - [x] TypeScript (01.05.2024)
@@ -90,17 +92,17 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ## The Odin Project: Full Stack JavaScript Path (2/2)
 
-### React (Upcoming)
+### React
 - [x] Introduction (30.09.2024)
 - [x] Getting Started With React (30.09.2024)
 - [x] States and Effects (30.09.2024)
-- [ ] Class Components (TBD)
+- [x] Class Components (07.10.2024)
 - [ ] React Testing (TBD)
 - [ ] The React Ecosystem (TBD)
 - [ ] More React Concepts (TBD)
 
-### JavaScript (Upcoming)
-- [ ] Intermediate Git (TBD)
+### JavaScript
+- [x] Intermediate Git (12.10.2024)
 - [ ] Testing JavaScript (TBD)
 - [ ] Finishing Up with JavaScript (TBD)
 
