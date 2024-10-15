@@ -103,8 +103,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ### JavaScript
 - [x] Intermediate Git (12.10.2024)
-- [ ] Testing JavaScript (TBD)
-- [ ] Finishing Up with JavaScript (TBD)
+- [x] Testing JavaScript (15.10.2024)
 
 ### Advanced HTML and CSS (Upcoming)
 
