@@ -99,13 +99,16 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Class Components (07.10.2024)
 - [x] React Testing (18.10.2024)
 - [x] The React Ecosystem (20.10.2024)
-- [ ] More React Concepts (TBD)
+- [x] More React Concepts (21.10.2024)
 
 ### JavaScript
 - [x] Intermediate Git (12.10.2024)
 - [x] Testing JavaScript (15.10.2024)
 
-### Advanced HTML and CSS (Upcoming)
+### Advanced HTML and CSS
+- [ ] Animation (TBD)
+- [ ] Accessibility (TBD)
+- [ ] Responsive Design (TBD)
 
 ### Databases (Upcoming)
 
