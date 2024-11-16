@@ -106,7 +106,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Testing JavaScript (15.10.2024)
 
 ### Advanced HTML and CSS
-- [ ] Animation (TBD)
+- [x] Animation (16.11.2024)
 - [ ] Accessibility (TBD)
 - [ ] Responsive Design (TBD)
 
