@@ -107,7 +107,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ### Advanced HTML and CSS
 - [x] Animation (16.11.2024)
-- [ ] Accessibility (TBD)
+- [x] Accessibility (18.11.2024)
 - [ ] Responsive Design (TBD)
 
 ### Databases (Upcoming)
