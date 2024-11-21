@@ -110,7 +110,8 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Accessibility (18.11.2024)
 - [x] Responsive Design (20.11.2024)
 
-### Databases (Upcoming)
+### Databases
+- [ ] Databases and SQL
 
 ### NodeJS (Upcoming)
 
