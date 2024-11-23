@@ -113,6 +113,11 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 ### Databases
 - [ ] Databases and SQL
 
-### NodeJS (Upcoming)
-
+### NodeJS
+- [ ] Introduction to NodeJS
+- [ ] Express
+- [ ] Authentication
+- [ ] ORMs
+- [ ] APIs
+- [ ] Testing Express
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
