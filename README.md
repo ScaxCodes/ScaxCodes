@@ -114,7 +114,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Databases and SQL (2024-12-02)
 
 ### NodeJS
-- [ ] Introduction to NodeJS
+- [x] Introduction to NodeJS (2024-12-10)
 - [ ] Express
 - [ ] Authentication
 - [ ] ORMs
