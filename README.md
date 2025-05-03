@@ -20,10 +20,14 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | Technology       | Description                                  | Logo                                                                                   |
 |------------------|----------------------------------------------|----------------------------------------------------------------------------------------|
 | JavaScript       | Frontend and Backend scripting language      | <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="35">         |
+| TypeScript       | Typed superset of JavaScript                 | <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" width="35">     |
 | HTML5            | Markup language for creating web content     | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="35">                  |
 | CSS3             | Styling language for web design              | <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="35">                   |
 | React            | JavaScript library for building UIs          | <img src="https://www.svgrepo.com/show/452092/react.svg" width="35">                   |
 | Tailwind CSS     | Utility-first CSS framework                  | <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="35">                |
+| Node.js          | JavaScript runtime for server-side apps      | <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="35">             |
+| Express          | Web framework for Node.js                    | <img src="https://www.svgrepo.com/show/330398/express.svg" width="35">                 |
+| PostgreSQL       | Relational database management system        | <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="35">         |
 | Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
