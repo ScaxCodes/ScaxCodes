@@ -12,8 +12,10 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - Q3 2023: [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)
 - Q1 2024: [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
 - Q2 2024: [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
-- Q3 2024: [Chingu: 6-week remote team project](https://www.chingu.io/howItWorks)
+- Q3 2024: [6-week remote team project - Chingu](https://www.chingu.io/howItWorks)
 - Q4 2024: [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- Q2 2025: [The Last Algorithms Course You'll Need - Frontendmasters](https://frontendmasters.com/courses/algorithms/)
+- Q2 2025: [A Problemset focusing on Data Structures and Algorithms - NeetCode150](https://neetcode.io/)
 
 ## 🧱 Tech Stack
 
