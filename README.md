@@ -15,7 +15,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - Q3 2024: [6-week remote team project - Chingu](https://www.chingu.io/howItWorks)
 - Q4 2024: [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 - Q2 2025: [The Last Algorithms Course You'll Need - Frontendmasters](https://frontendmasters.com/courses/algorithms/)
-- Q2 2025: [A Problemset focusing on Data Structures and Algorithms - NeetCode150](https://neetcode.io/)
+- Q2 2025: [NeetCode150](https://neetcode.io/)
 
 ## 🧱 Tech Stack
 
@@ -35,70 +35,11 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
 | webpack          | Module bundler for JavaScript applications   | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="35">                 |
 
-## Harvard University: CS50x
+## Currently Learning
 
-- [x] Week 0 Scratch (2022-12-06)
-- [x] Week 1 C (2022-12-12)
-- [x] Week 2 Arrays (2022-12-19)
-- [x] Week 3 Algorithms (2022-12-28)
-- [x] Week 4 Memory (2023-02-16)
-- [x] Week 5 Data Structures (2023-03-02)
-- [x] Week 6 Python (2023-03-21)
-- [x] Week 7 SQL (2023-03-23)
-- [x] Week 8 HTML, CSS, JavaScript (2023-03-30)
-- [x] Week 9 Flask (2023-04-07)
-- [x] Week 10 Emoji (2023-04-08)
-- [x] Submitted Final Project (2023-11-26)
+### The Odin Project: Full Stack JavaScript Path (2/2)
 
-## The Odin Project: Foundations Course
-
-- [x] Introduction (2023-04-10)
-- [x] Prerequisites (2023-04-15)
-- [x] Git Basics (2023-04-22)
-- [x] HTML Foundations (2023-04-29)
-- [x] CSS Foundations (2023-05-05)
-- [x] Flexbox (2023-05-19)
-- [x] JavaScript Basics (2023-06-24)
-
-## The Odin Project: Full Stack JavaScript Path (1/2)
-
-### Intermediate HTML and CSS
-- [x] Intermediate HTML Concepts (2023-06-26)
-- [x] Intermediate CSS Concepts (2023-07-01)
-- [x] Forms (2023-07-07)
-- [x] Grid (2023-07-16)
-
-### JavaScript
-- [x] Introduction (2023-07-17)
-- [x] Organizing Your JavaScript Code (2023-09-18)
-- [x] Book "99 Bottles of OOP" by Sandi Metz (2023-10-06)
-- [x] JavaScript in the Real World (2023-10-17)
-- [x] Asynchronous JavaScript and APIs (2023-11-14)
-- [x] A Bit of Computer Science (2024-02-08)
-
-## CourseCareers
-
-### Software Development Fundamentals
-
-- [x] Frontend Basics (2024-02-01)
-- [x] Professional Software Development (2024-02-02)
-- [x] Computer Science Principles (2024-02-15)
-- [x] Backend Development With Go (2024-02-23)
-- [x] Software Engineering Principles (2024-02-24)
-- [x] Final Project (2024-03-15)
-- [x] Final Exam (2024-04-04)
-
-### Specialization Frontend Development
-
-- [x] CSS (2024-04-16)
-- [x] TypeScript (2024-05-01)
-- [x] JavaScript (2024-06-16)
-- [x] React (2024-08-18)
-- [x] Final Exam (2024-09-28)
-
-## The Odin Project: Full Stack JavaScript Path (2/2)
-
-### React
+### React (Refresher)
 - [x] Introduction (2024-09-30)
 - [x] Getting Started With React (2024-09-30)
 - [x] States and Effects (2024-09-30)
@@ -107,11 +48,11 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] The React Ecosystem (2024-10-20)
 - [x] More React Concepts (2024-10-21)
 
-### JavaScript
+### JavaScript (Refresher)
 - [x] Intermediate Git (2024-10-12)
 - [x] Testing JavaScript (2024-10-15)
 
-### Advanced HTML and CSS
+### Advanced HTML and CSS (Refresher)
 - [x] Animation (2024-11-16)
 - [x] Accessibility (2024-11-18)
 - [x] Responsive Design (2024-11-20)
