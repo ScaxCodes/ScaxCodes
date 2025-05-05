@@ -6,16 +6,18 @@ Welcome to my GitHub profile. I'm a coffee enthusiast with a passion for coding.
 
 Since late 2022, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
 
-- Q4 2022: [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)
-- Q2 2023: [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
-- Q3 2023: [Full Stack JavaScript Path (1/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
-- Q3 2023: [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)
-- Q1 2024: [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
-- Q2 2024: [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)
-- Q3 2024: [6-week remote team project - Chingu](https://www.chingu.io/howItWorks)
-- Q4 2024: [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
-- Q2 2025: [The Last Algorithms Course You'll Need - Frontendmasters](https://frontendmasters.com/courses/algorithms/)
-- Q2 2025: [NeetCode150](https://neetcode.io/)
+| Status | Timeframe  | Learning Item                                                                                                               |
+|--------|------------|-----------------------------------------------------------------------------------------------------------------------------|
+| ✅     | Q4 2022     | [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)                                                             |
+| ✅     | Q2 2023     | [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)              |
+| ✅     | Q3 2023     | [Full Stack JavaScript Path (1/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)          |
+| ✅     | Q3 2023     | [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)                         |
+| ✅     | Q1 2024     | [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)   |
+| ✅     | Q2 2024     | [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals) |
+| ✅     | Q3 2024     | [6-week Remote Team Project - Chingu](https://www.chingu.io/howItWorks)                                                    |
+| ⏳     | Q4 2024     | [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)          |
+| ⬜     | Q2 2025     | [The Last Algorithms Course You'll Need - FrontendMasters](https://frontendmasters.com/courses/algorithms/)                |
+| ⬜     | Q2 2025     | [NeetCode150](https://neetcode.io/)                                                                                        |
 
 ## 🧱 Tech Stack
 
