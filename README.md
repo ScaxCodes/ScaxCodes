@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm a coffee enthusiast with a passion for coding.
 
 Since late 2022, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
 
-| Status | Timeframe  | Learning Item                                                                                                               |
+| Status | Started    | Learning Item                                                                                                                 |
 |--------|------------|-----------------------------------------------------------------------------------------------------------------------------|
 | ✅     | Q4 2022     | [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)                                                             |
 | ✅     | Q2 2023     | [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)              |
