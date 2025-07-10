@@ -66,7 +66,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Introduction to NodeJS (2024-12-10)
 - [x] Express (2025-04-30)
 - [x] Authentication (2025-05-13)
-- [ ] ORMs
+- [x] ORMs (2025-07-10)
 - [ ] APIs
 - [ ] Testing Express
 
