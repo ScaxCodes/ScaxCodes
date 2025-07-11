@@ -67,7 +67,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 - [x] Express (2025-04-30)
 - [x] Authentication (2025-05-13)
 - [x] ORMs (2025-07-10)
-- [ ] APIs
+- [x] APIs (2025-07-11)
 - [ ] Testing Express
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
