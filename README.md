@@ -7,18 +7,17 @@ Welcome to my GitHub profile. I'm a coffee enthusiast with a passion for coding.
 Since late 2022, I'm diving deep into the world of Web Development, specifically Full-Stack JavaScript. Here's a snapshot of my learning journey:
 
 | Status | Started    | Learning Item                                                                                                                 |
-|--------|------------|-----------------------------------------------------------------------------------------------------------------------------|
-| ✅     | Q4 2022     | [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)                                                             |
-| ✅     | Q2 2023     | [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)              |
-| ✅     | Q3 2023     | [Full Stack JavaScript Path (1/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)          |
-| ✅     | Q3 2023     | [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)                         |
-| ✅     | Q1 2024     | [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)   |
-| ✅     | Q2 2024     | [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals) |
-| ✅     | Q3 2024     | [6-week Remote Team Project - Chingu](https://www.chingu.io/howItWorks)                                                    |
-| ⏳     | Q4 2024     | [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)          |
-| ⬜     | Q2 2025     | [The Last Algorithms Course You'll Need - FrontendMasters](https://frontendmasters.com/courses/algorithms/)                |
-| ⬜     | Q2 2025     | [NeetCode150](https://neetcode.io/)                                                                                        |
-
+|--------|------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ✅     | Q4 2022     | [CS50x - Harvard University](https://cs50.harvard.edu/x/2022/)                                                               |
+| ✅     | Q2 2023     | [Foundations Course - The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)                |
+| ✅     | Q3 2023     | [Full Stack JavaScript Path (1/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)            |
+| ✅     | Q3 2023     | [99 Bottles of OOP - A practical Guide to Object-Oriented Design](https://sandimetz.com/99bottles)                           |
+| ✅     | Q1 2024     | [Software Development Fundamentals - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)     |
+| ✅     | Q2 2024     | [Specialization Frontend Development - CourseCareers](https://coursecareers.com/courses/explore/software-dev-fundamentals)   |
+| ✅     | Q3 2024     | [6-week Remote Team Project - Chingu](https://www.chingu.io/howItWorks)                                                      |
+| ✅     | Q4 2024     | [Full Stack JavaScript Path (2/2) - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)            |
+| ⏳     | Q4 2025     | [Qualifying Coursework in Computer Science (FernUniversität Hagen)](https://www.fernuni-hagen.de/mi/studium/akademiestudium.shtml) |
+                                                                                  
 ## 🧱 Tech Stack
 
 | Technology       | Description                                  | Logo                                                                                   |
@@ -39,35 +38,6 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ## Currently Learning
 
-### The Odin Project: Full Stack JavaScript Path (2/2)
-
-### React (Refresher)
-- [x] Introduction (2024-09-30)
-- [x] Getting Started With React (2024-09-30)
-- [x] States and Effects (2024-09-30)
-- [x] Class Components (2024-10-07)
-- [x] React Testing (2024-10-18)
-- [x] The React Ecosystem (2024-10-20)
-- [x] More React Concepts (2024-10-21)
-
-### JavaScript (Refresher)
-- [x] Intermediate Git (2024-10-12)
-- [x] Testing JavaScript (2024-10-15)
-
-### Advanced HTML and CSS (Refresher)
-- [x] Animation (2024-11-16)
-- [x] Accessibility (2024-11-18)
-- [x] Responsive Design (2024-11-20)
-
-### Databases
-- [x] Databases and SQL (2024-12-02)
-
-### NodeJS
-- [x] Introduction to NodeJS (2024-12-10)
-- [x] Express (2025-04-30)
-- [x] Authentication (2025-05-13)
-- [x] ORMs (2025-07-10)
-- [x] APIs (2025-07-11)
-- [ ] Testing Express
+[Modul 65001: Grundlagen der Informatik 1 (FernUniversität Hagen)](https://www.fernuni-hagen.de/mi/studium/module/gdi1.shtml?sg=bscmatse)
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
