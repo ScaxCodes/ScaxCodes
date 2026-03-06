@@ -2,8 +2,7 @@
 
 I used to work as a police investigator specializing in cybercrime. 👮‍♂️
 
-Investigating computer-related crimes, tracing digital activities and working closely with technical evidence was part of my daily job.  
-At some point I realized that the part I loved most was understanding how the technology behind it actually works - and building solutions with it.
+Investigating computer-related crimes, tracing digital activities and working closely with technical evidence was part of my daily job.  At some point I realized that the part I loved most was understanding how the technology behind it actually works - and building solutions with it.
 
 So in 2022 I started learning software development.
 
