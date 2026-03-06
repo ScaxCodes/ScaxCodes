@@ -1,6 +1,13 @@
 # Hey there, I'm Axel! 👋
 
-Welcome to my GitHub profile. I'm a coffee enthusiast with a passion for coding.
+I used to work as a police investigator specializing in cybercrime. 👮‍♂️
+
+Investigating computer-related crimes, tracing digital activities and working closely with technical evidence was part of my daily job.  
+At some point I realized that the part I loved most was understanding how the technology behind it actually works - and building solutions with it.
+
+So in 2022 I started learning software development.
+
+Today I'm working full-time in software development, building web applications with JavaScript, React and Node.js while continuing to deepen my computer science knowledge.
 
 ## 🧑‍💻 What I'm Up To
 
