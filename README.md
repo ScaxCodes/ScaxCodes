@@ -37,6 +37,7 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 | Node.js          | JavaScript runtime for server-side apps      | <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="35">             |
 | Express          | Web framework for Node.js                    | <img src="https://www.svgrepo.com/show/330398/express.svg" width="35">                 |
 | PostgreSQL       | Relational database management system        | <img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="35">         |
+| Prisma ORM       | Type-safe ORM for Node.js and TypeScript     | <img src="https://www.svgrepo.com/show/354210/prisma.svg" width="35">              |
 | Git              | Version control system                       | <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35">           |
 | VS Code          | Code editor by Microsoft                     | <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="35"> |
 | npm              | Package manager for JavaScript               | <img src="https://www.svgrepo.com/show/452077/npm.svg" width="35">                     |
