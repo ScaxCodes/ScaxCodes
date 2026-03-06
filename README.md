@@ -44,6 +44,10 @@ Since late 2022, I'm diving deep into the world of Web Development, specifically
 
 ## Currently Learning
 
-[Modul 65001: Grundlagen der Informatik 1 (FernUniversität Hagen)](https://www.fernuni-hagen.de/mi/studium/module/gdi1.shtml?sg=bscmatse)
+| Status | Module |
+|------|------|
+| ✅ | [Modul 65001: Grundlagen der Informatik 1](https://www.fernuni-hagen.de/mi/studium/module/gdi1.shtml?sg=bscmatse) |
+| 📚 | [Modul 65002: Grundlagen der Informatik 2](https://www.fernuni-hagen.de/mi/studium/module/gdi2.shtml?sg=bawiinf) |
+| 📚 | [Modul 61111: Mathematische Grundlagen](https://www.fernuni-hagen.de/mi/studium/module/mathematische_grundlagen.shtml) |
 
 <!-- Feel free to check out the repositories for more details about my projects and progress! -->
